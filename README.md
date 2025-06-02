@@ -129,15 +129,31 @@
 
 **Диаграмма контейнеров (Containers)**
 
-Добавьте диаграмму.
+[Скачать .puml](https://disk.yandex.ru/d/uqvr08-5DdNHGQ)
+[Скачать .png](https://disk.yandex.ru/i/qPqjf5Wu5NGLAg)
 
 **Диаграмма компонентов (Components)**
 
-Добавьте диаграмму для каждого из выделенных микросервисов.
+- Device Service ([Скачать .puml](https://disk.yandex.ru/d/PZRyO15lfKCxig) [Скачать .png](https://disk.yandex.ru/i/5qih6-7y5dex-Q))
+
+- User Service ([Скачать .puml](https://disk.yandex.ru/d/bmlWbNzUlJiiZw) [Скачать .png](https://disk.yandex.ru/i/nq3Ra0VXk4Tv4g))
+
+- Heating Service ([Скачать .puml](https://disk.yandex.ru/d/rx97Z6phqtyuew) [Скачать .png](https://disk.yandex.ru/d/rx97Z6phqtyuew))
+
+- Telemetry Service ([Скачать .puml](https://disk.yandex.ru/d/CiZ6CcF29czgRA) [Скачать .png](https://disk.yandex.ru/d/pX-kjQcYqikkwg))
+
+- Lighting Service ([Скачать .puml](https://disk.yandex.ru/d/WLPL7juYzKA--w) [Скачать .png](https://disk.yandex.ru/i/JD41AYVBTISenw))
+
+- Gate Service ([Скачать .puml](https://disk.yandex.ru/d/f1f0Kzvumky9Aw) [Скачать .png](https://disk.yandex.ru/i/u8h58YDhNKArBQ))
+
+- Camera Service ([Скачать .puml](https://disk.yandex.ru/d/39NtwNn_WMhawg) [Скачать .png](https://disk.yandex.ru/d/39NtwNn_WMhawg))
 
 **Диаграмма кода (Code)**
 
-Добавьте одну диаграмму или несколько.
+- User Service ([Скачать .puml](https://disk.yandex.ru/d/-pk5reuisdA9PQ) [Скачать .png](https://disk.yandex.ru/d/-pk5reuisdA9PQ))
+
+- Device Service ([Скачать .puml](https://disk.yandex.ru/d/zDDloy-lWlqs1w) [Скачать .png](https://disk.yandex.ru/i/d19DAvhVdY8RXg))
+
 
 # Задание 3. Разработка ER-диаграммы
 
